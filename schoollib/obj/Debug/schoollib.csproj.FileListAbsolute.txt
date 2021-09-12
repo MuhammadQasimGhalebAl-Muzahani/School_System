@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\School_System\schoollib\obj\Debug\schoollib.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\School_System\schoollib\bin\Debug\schoollib.dll
+c:\users\user\documents\visual studio 2015\Projects\School_System\schoollib\bin\Debug\schoollib.pdb
+c:\users\user\documents\visual studio 2015\Projects\School_System\schoollib\obj\Debug\schoollib.dll
+c:\users\user\documents\visual studio 2015\Projects\School_System\schoollib\obj\Debug\schoollib.pdb
+D:\Smester Six\Projects\School_System\schoollib\bin\Debug\schoollib.dll
+D:\Smester Six\Projects\School_System\schoollib\bin\Debug\schoollib.pdb
+D:\Smester Six\Projects\School_System\schoollib\obj\Debug\schoollib.csprojResolveAssemblyReference.cache
+D:\Smester Six\Projects\School_System\schoollib\obj\Debug\schoollib.dll
+D:\Smester Six\Projects\School_System\schoollib\obj\Debug\schoollib.pdb

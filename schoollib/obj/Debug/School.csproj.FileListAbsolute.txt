@@ -1,0 +1,10 @@
+D:\Smester Six\Projects\School_System\schoollib\bin\Debug\schoollib.dll
+D:\Smester Six\Projects\School_System\schoollib\bin\Debug\schoollib.pdb
+D:\Smester Six\Projects\School_System\schoollib\obj\Debug\schoollib.dll
+D:\Smester Six\Projects\School_System\schoollib\obj\Debug\schoollib.pdb
+C:\Users\Computer World\Downloads\School_System\School_System\schoollib\bin\Debug\schoollib.dll
+C:\Users\Computer World\Downloads\School_System\School_System\schoollib\bin\Debug\schoollib.pdb
+C:\Users\Computer World\Downloads\School_System\School_System\schoollib\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\Computer World\Downloads\School_System\School_System\schoollib\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\Computer World\Downloads\School_System\School_System\schoollib\obj\Debug\schoollib.dll
+C:\Users\Computer World\Downloads\School_System\School_System\schoollib\obj\Debug\schoollib.pdb

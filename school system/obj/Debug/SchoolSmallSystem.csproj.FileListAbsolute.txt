@@ -1,0 +1,14 @@
+D:\Smester Six\Projects\School_System\school system\obj\Debug\school_system.Properties.Resources.resources
+D:\Smester Six\Projects\School_System\school system\obj\Debug\SchoolSmallSystem.csproj.GenerateResource.Cache
+D:\Smester Six\Projects\School_System\school system\obj\Debug\school system.exe
+D:\Smester Six\Projects\School_System\school system\obj\Debug\school system.pdb
+D:\Smester Six\Projects\School_System\school system\bin\Debug\school system.exe.config
+D:\Smester Six\Projects\School_System\school system\bin\Debug\school system.exe
+D:\Smester Six\Projects\School_System\school system\bin\Debug\school system.pdb
+D:\Smester Six\Projects\School_System\school system\bin\Debug\schoollib.dll
+D:\Smester Six\Projects\School_System\school system\bin\Debug\schoollib.pdb
+D:\Smester Six\Projects\School_System\school system\obj\Debug\SchoolSmallSystem.Form1.resources
+D:\Smester Six\Projects\School_System\school system\obj\Debug\SchoolSmallSystem.csprojResolveAssemblyReference.cache
+C:\Users\Computer World\Downloads\School_System\School_System\school system\obj\Debug\SchoolSmallSystem.csprojAssemblyReference.cache
+C:\Users\Computer World\Downloads\School_System\School_System\school system\obj\Debug\school system.exe
+C:\Users\Computer World\Downloads\School_System\School_System\school system\obj\Debug\school system.pdb
